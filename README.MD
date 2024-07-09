@@ -8,3 +8,4 @@
   - Estilizações com CSS;
   - Espaçamentos
   - E muito mais...
+- Este desafio foi proposto na formação [FullStack](https://www.rocketseat.com.br/formacao/fullstack) da Rocketseat.
