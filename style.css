@@ -70,6 +70,13 @@ h1 {
   background-color: var(--border-color);
 }
 
+.divider-2 {
+  height: 1px;
+  width: 100%;
+  background-color: var(--border-color);
+  margin: 40px 0;
+}
+
 #history-love {
   margin-top: 64px;
 }
@@ -92,7 +99,9 @@ h1 {
   width: 100%;
   max-height: 350px;
   margin-bottom: 20px;
+  object-fit: cover;
 }
+
 
 h3 {
   font-size: 28px;
@@ -119,4 +128,36 @@ ul li::marker {
 
 .card-travel {
   margin-bottom: 48px;
+}
+
+ul li {
+  font-weight: bold;
+  color: var(--accent-blue);
+}
+
+#item-1 {
+  color: var(--accent-purple);
+}
+
+#item-2 {
+  color: var(--accent-pink);
+}
+
+#item-3 {
+  color: var(--accent-orange);
+}
+
+footer {
+  margin-bottom: 48px;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 65px;
+}
+
+.footer-text {
+  padding-top: 0;
+  padding-bottom: 48px;
 }
